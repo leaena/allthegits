@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello,
 I am John. I make changes to text files.
+=======
+Hello
+
+Pink fluffy unicorns dancing on rainbows.
+>>>>>>> ad8a8824943c52f8d998edc8bdebe95cee54a5ea
