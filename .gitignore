@@ -1,2 +1,10 @@
 *.txt
 *.md
+*.py
+*.c
+*.pyc
+*.pyx
+*.java
+*.class
+*.html
+README
