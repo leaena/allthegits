@@ -1,8 +1,13 @@
-<<<<<<< HEAD
-Hello,
-I am John. I make changes to text files.
-=======
-Hello
+
+Hello, Everypony!!
 
 Pink fluffy unicorns dancing on rainbows.
->>>>>>> ad8a8824943c52f8d998edc8bdebe95cee54a5ea
+
+3.141592653589793438462643383
+
+
+
+Hello,
+I am John. I make changes to text files.
+
+
